@@ -1,10 +1,10 @@
-# Sales Data Analysis & Dashboard
+# 📊 Sales Data Analysis & Dashboard using Microsoft Excel
 
-## 📊 Project Overview
+## 📌 Project Overview
 
 This project analyzes 500 sales transactions using Microsoft Excel 2010.
 
-The objective of the project is to analyze sales performance, identify top-performing products and regions, and create an interactive dashboard for business insights.
+The objective of this project is to identify sales trends, top-performing products, regions, categories, and salespersons using Excel formulas, PivotTables, and PivotCharts.
 
 ## 🛠️ Tools & Technologies
 
@@ -13,31 +13,27 @@ The objective of the project is to analyze sales performance, identify top-perfo
 - PivotTables
 - PivotCharts
 - Data Analysis
-- Dashboard Creation
+- Data Visualization
 
-## 📁 Dataset
+## 📂 Dataset
 
-The dataset contains 500 sales transactions with information such as:
+The dataset contains 500 sales records with information such as:
 
 - Order Date
-- Customer
+- Customer Name
 - Category
 - Product
 - Region
-- City
 - Quantity
 - Unit Price
 - Discount
+- Payment Mode
+- Salesperson
 - Gross Sales
 - Discount Amount
 - Net Sales
-- Payment Mode
-- Salesperson
-- Year
 
-## 📈 Analysis Performed
-
-The project analyzes:
+## 📈 Key Analysis Performed
 
 - Total Sales
 - Total Orders
@@ -48,45 +44,35 @@ The project analyzes:
 - Top 5 Products by Sales
 - Salesperson Performance
 
-## 🔍 Key Business Insights
-
-- Total Sales: ₹1,08,34,871.50
-- Total Orders: 500
-- Total Quantity Sold: 1,546
-- Average Order Value: ₹21,669.74
-- Top Category: Electronics
-- Top Region: South
-- Top Product: Laptop
-- Top Salesperson: Arjun T
-
 ## 📊 Dashboard
 
-The final dashboard contains:
+The final dashboard provides a visual summary of the sales performance.
 
-- KPI summary
-- Sales by Category
-- Sales by Region
-- Top 5 Products by Sales
-- Salesperson Performance
+![Sales Dashboard](Screenshot%20(240).png)
 
-## 📷 Project Screenshots
+## 🔍 Key Business Insights
 
-### Dashboard – KPIs & Business Insights
+- **Top Category:** Electronics
+- **Top Region:** South
+- **Top Product:** Laptop
+- **Top Salesperson:** Arjun T
+- **Total Orders:** 500
+- **Total Quantity Sold:** 1,546
 
-![Dashboard KPIs](screenshots/dashboard_kpis.png)
+## 💡 Skills Demonstrated
 
-### Dashboard – Charts
+- Data Cleaning
+- Data Analysis
+- Excel Formulas
+- PivotTable Creation
+- Data Visualization
+- Dashboard Development
+- Business Insight Generation
 
-![Dashboard Charts](screenshots/dashboard_charts.png)
+## 📁 Project Files
 
-### Sales Dataset
-
-![Sales Dataset](screenshots/sales_dataset.png)
-
-### Top 5 Products Analysis
-
-![Top 5 Products](screenshots/top_5_products.png)
-
-## 🎯 Project Outcome
-
-This project helped demonstrate practical skills in data cleaning, data analysis, PivotTables, PivotCharts, business insights, and dashboard creation using Microsoft Excel.
+- `sales_data_500_rows.xlsx` – Excel dataset and analysis
+- `Screenshot (236).png` – Project analysis
+- `Screenshot (238).png` – Regional analysis
+- `Screenshot (239).png` – Product analysis
+- `Screenshot (240).png` – Sales dashboard
